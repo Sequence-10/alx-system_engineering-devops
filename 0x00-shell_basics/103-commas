@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -admhu . *sort[:alnum] \n
+ls -ah -m . -u * sort[:alnum] \n
